@@ -1,4 +1,9 @@
+
 ### Hi there 👋
+
+![Jason Luo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluo07&count_private=true&show_icons=true&hide=stars,contribs,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluo07&layout=compact&hide=handlebars,shell,dockerfile,mdx,procfile,html,css)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <!--
 **jasonluo07/jasonluo07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
