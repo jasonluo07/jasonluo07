@@ -1,21 +1,6 @@
+### Hi there 👋 I'm Jason
 
-### Hi there 👋
-
-![Jason Luo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonluo07&count_private=true&show_icons=true&hide=stars,contribs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluo07&layout=compact&hide=handlebars,shell,dockerfile,mdx,procfile,html,css)
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<!--
-**jasonluo07/jasonluo07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonluo07&layout=compact&hide=handlebars,shell,dockerfile,mdx,procfile,html,css" height="140px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jasonluo07&count_private=true&show_icons=true&hide=stars,contribs,issues" height="140px" />
+</p>
